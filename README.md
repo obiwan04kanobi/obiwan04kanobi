@@ -17,9 +17,14 @@ As a second-year CSE Data Science student, I possess a fervent passion for both 
 
 
 ## 📊 Github Statistics
-![Obiwan04Kanobi's GitHub stats](https://obiwan-github-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact)
+<a href="https://github.com/obiwan04kanobi/github-readme-stats">
+  <img height=200 align="center" src="https://obiwan-github-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/obiwan04kanobi/convoychat">
+  <img height=200 align="center" src="https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 
 ## 🔗 Links
