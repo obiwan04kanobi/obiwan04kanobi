@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-As a second-year CSE Data Science student, I possess a fervent passion for both the realms of data science and finance. Eager to explore the intersections of these fields, my GitHub journey is dedicated to showcasing my evolving expertise through projects that leverage data-driven insights to navigate the intricacies of financial landscapes.
+Aspiring Data Scientist and second-year Computer Science Engineering student passionate about unraveling insights from complex datasets. Dedicated to honing skills in machine learning, statistics, and programming. Eager to collaborate on projects that leverage data to solve real-world challenges. Enthusiastic about continuous learning and innovation in the realm of data science.
 
 
 
