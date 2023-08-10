@@ -22,7 +22,7 @@ As a second-year CSE Data Science student, I possess a fervent passion for both 
   <img height=200 align="center" src="https://obiwan-github-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/obiwan04kanobi/convoychat">
-  <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&card_width=150&theme=tokyonight" />
+  <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&card_width=160&theme=tokyonight" />
 </a>
 
 
