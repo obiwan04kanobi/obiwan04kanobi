@@ -13,10 +13,7 @@ Aspiring Data Scientist and second-year Computer Science Engineering student pas
 
 
 
-
-
-
-## 📊 Github Statistics
+## 📊 Github Stats
 
 <a href="https://github.com/obiwan04kanobi/github-readme-stats">
   <img height=200 align="center" src="https://obiwan-github-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&theme=tokyonight" />
