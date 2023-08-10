@@ -19,10 +19,10 @@ Aspiring Data Scientist and second-year Computer Science Engineering student pas
 ## 📊 Github Statistics
 
 <a href="https://github.com/obiwan04kanobi/github-readme-stats">
-  <img height=200 align="center" src="https://obiwan-github-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&theme=gruvbox" />
+  <img height=200 align="center" src="https://obiwan-github-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/obiwan04kanobi/convoychat">
-  <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&card_width=160&theme=gruvbox" />
+  <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&card_width=160&theme=dark" />
 </a>
 
 
