@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**obiwan04kanobi/obiwan04kanobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+As a second-year CSE Data Science student, I possess a fervent passion for both the realms of data science and finance. Eager to explore the intersections of these fields, my GitHub journey is dedicated to showcasing my evolving expertise through projects that leverage data-driven insights to navigate the intricacies of financial landscapes.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+* Advanced Python.                                             
+* Currently learning Java.
+* Cloud Computing (AWS) fundamentals. 
+
+
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-04-pant/)
+
+
