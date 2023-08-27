@@ -1,13 +1,13 @@
 
 ## 🚀 About Me
-Aspiring Data Scientist and second-year Computer Science Engineering student passionate about unraveling insights from complex datasets. Dedicated to honing skills in machine learning, statistics, and programming. Eager to collaborate on projects that leverage data to solve real-world challenges. Enthusiastic about continuous learning and innovation in the realm of data science.
+Aspiring Data Scientist and second-year Computer Science Engineering student passionate about unraveling insights from complex datasets. Dedicated to honing skills in statistics, and programming. Eager to collaborate on projects that leverage data to solve real-world challenges. Enthusiastic about continuous learning and innovation in the realm of data science.
 
 
 
 ## 🛠 Skills
 🐍 Advanced Python.                                             
 
-👩‍💻 Currently learning Java.
+👨‍💻 Currently learning Java.
 
 ☁️ Cloud Computing (AWS) fundamentals. 
 
