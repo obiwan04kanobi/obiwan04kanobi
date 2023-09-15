@@ -9,8 +9,6 @@ Aspiring Data Scientist and second-year Computer Science Engineering student pas
 
 👨‍💻 Currently learning Java.
 
-☁️ Cloud Computing (AWS) fundamentals. 
-
 
 
 ## 📊 Github Stats
