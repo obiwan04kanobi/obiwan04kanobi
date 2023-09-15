@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Aspiring Data Scientist and second-year Computer Science Engineering student passionate about unraveling insights from complex datasets. Dedicated to honing skills in statistics, and programming. Eager to collaborate on projects that leverage data to solve real-world challenges. Enthusiastic about continuous learning and innovation in the realm of data science.
+CSE-Data Science student with an unwavering passion for open source contribution. Committed to harnessing data-driven insights to solve real-world problems. Enthusiastic collaborator and code enthusiast, eager to make meaningful contributions to the open source community. 🌟 
 
 
 
