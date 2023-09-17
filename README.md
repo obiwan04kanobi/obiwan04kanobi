@@ -5,9 +5,7 @@ CSE-Data Science student with an unwavering passion for open source contribution
 
 
 ## 🛠 Skills
-🐍 Advanced Python.                                             
-
-👨‍💻 Currently learning Java.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
