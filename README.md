@@ -21,7 +21,9 @@ CSE-Data Science student with an unwavering passion for open source contribution
   <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&theme=transparent" />
 </a>
 
+## Hacktoberfest
 
+[![An image of @obiwan04kanobi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obiwan04kanobi)](https://holopin.io/@obiwan04kanobi)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-04-pant/)
