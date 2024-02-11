@@ -16,10 +16,10 @@ CSE-Data Science student with an unwavering passion for open source contribution
 ## 📊 Github Stats
 
 <a href="https://github.com/obiwan04kanobi/github-readme-stats">
-  <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&include_all_commits=true&theme=transparent" />
+  <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&include_all_commits=true&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/obiwan04kanobi/convoychat">
-  <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&theme=transparent" />
+  <img height=180 align="center" src="https://obiwan-github-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&theme=ambient_gradient" />
 </a>
 
 ## 🧑‍💻 Hacktoberfest
