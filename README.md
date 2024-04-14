@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-CSE-Data Science student with an unwavering passion for open source contribution. Committed to harnessing data-driven insights to solve real-world problems. Enthusiastic collaborator and code enthusiast, eager to make meaningful contributions to the open source community. 🌟 
+2nd-year Computer Science student specializing ni Data Science, proficient ni MySQL, Java, Python for data analysis, with AWS knowledge. Quick learner, problem solver, passionate about leveraging technology for real-world challenges. Enthusiastic collaborator and code enthusiast, eager to make meaningful contributions to the open source community. 🌟 
 
 
 ## 🛠 Tech Stack
