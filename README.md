@@ -2,6 +2,9 @@
 ## 🚀 About Me
 2nd-year Computer Science student specializing in Data Science, proficient in MySQL, Java, Python for data analysis, with AWS knowledge. Quick learner, problem solver, passionate about leveraging technology for real-world challenges. Enthusiastic collaborator and code enthusiast, eager to make meaningful contributions to the open source community. 🌟 
 
+![](https://komarev.com/ghpvc/?username=obiwan04kanobi&style=flat&base=0)
+
+
 
 ## 🛠 Tech Stack
 <div align="center">
