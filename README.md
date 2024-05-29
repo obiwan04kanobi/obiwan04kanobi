@@ -19,7 +19,9 @@ I love diving into real-world projects and contributing to open-source more than
 <div align="center">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />&nbsp;&nbsp;&nbsp;&nbsp;
+ 	<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django" />
+	
 </div>
 
 ### Databases & Cloud Platforms ☁️
