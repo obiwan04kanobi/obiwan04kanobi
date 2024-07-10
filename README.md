@@ -13,6 +13,7 @@ I love diving into real-world projects and contributing to open-source more than
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -22,7 +23,7 @@ I love diving into real-world projects and contributing to open-source more than
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />&nbsp;&nbsp;&nbsp;&nbsp;
  	<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django" />&nbsp;&nbsp;&nbsp;&nbsp;
   	<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel" />&nbsp;&nbsp;&nbsp;&nbsp;
-  
+    	<img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
 	
 </div>
 
