@@ -31,6 +31,8 @@ I love diving into real-world projects and contributing to open-source more than
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;&nbsp;&nbsp;&nbsp;
      	<img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />&nbsp;&nbsp;&nbsp;&nbsp;
+      	<img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins" />&nbsp;&nbsp;&nbsp;&nbsp;
   
 	
 </div>
