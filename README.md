@@ -1,6 +1,8 @@
 
 ## 🚀 About Me
-I love diving into real-world projects and contributing to open-source more than just solving endless coding puzzles. 🌟 
+<p align=”center”>
+	<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/9403209a-5782-4246-8980-15daf664fc98" alt=”my banner”>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=obiwan04kanobi&style=flat)
 
