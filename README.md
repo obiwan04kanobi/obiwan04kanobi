@@ -53,10 +53,10 @@
 ## 📊 Github Stats
 
 <a href="https://github.com/obiwan04kanobi/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&include_all_commits=true&theme=jolly" />
+  <img height=180 align="center" src="https://obiwan-github-readme-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&include_all_commits=true&theme=jolly" />
 </a>
 <a href="https://github.com/obiwan04kanobi/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&theme=jolly" />
+  <img height=180 align="center" src="https://obiwan-github-readme-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&theme=jolly" />
 </a>
 
 <!--## 🧑‍💻 Hacktoberfest-->
