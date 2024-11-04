@@ -21,6 +21,7 @@
 
 ### Development Frameworks and Libraries 
 <div align="center">
+	<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />&nbsp;&nbsp;&nbsp;&nbsp;
  	<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,6 +34,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;&nbsp;&nbsp;&nbsp;
      	<img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" />&nbsp;&nbsp;&nbsp;&nbsp;
       	<img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins" />&nbsp;&nbsp;&nbsp;&nbsp;
   
