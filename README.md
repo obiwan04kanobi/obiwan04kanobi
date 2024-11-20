@@ -22,6 +22,7 @@
 ### Development Frameworks and Libraries 
 <div align="center">
 	<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />&nbsp;&nbsp;&nbsp;&nbsp;
  	<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django" />&nbsp;&nbsp;&nbsp;&nbsp;
