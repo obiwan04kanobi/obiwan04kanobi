@@ -1,11 +1,10 @@
 
 ## 🚀 About Me
 <p align=”center”>
-	<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/9403209a-5782-4246-8980-15daf664fc98" alt=”my banner”>
+	<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/c9d2e7f2-5f59-478a-afa1-46a8d13bc506" alt=”my banner”>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=obiwan04kanobi&style=flat)
-
 
 ## 💻 Tech Stack
 
