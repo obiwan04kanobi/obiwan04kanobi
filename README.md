@@ -6,6 +6,14 @@
 
 ![](https://komarev.com/ghpvc/?username=obiwan04kanobi&style=flat)
 
+## 🏅 Certifications
+<div align="center">
+	<code><img height="120" src="https://github.com/user-attachments/assets/e0765e6d-8c40-4f2e-8220-acc19e08aae6" alt="AWS-CLF02" title="AWS-CLF02" /></code>
+</div>
+
+
+
+
 ## 💻 Tech Stack
 
 ### Languages 🛠
