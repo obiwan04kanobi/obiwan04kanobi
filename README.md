@@ -8,12 +8,9 @@
 
 ## 🏅 Certifications
 <div align="center">
-	<code><img width="144" height="144" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/b6ff6d0b-6f2b-4989-9833-f2aafa7f3ec2" /></code>
-	<code><img width="144" height="144" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/722e0070-374a-4c52-bde7-b647cfdfbc07" /></code>
+	<code><img width="130" height="130" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/c995028f-55b0-43d3-ad42-ed8ee773f6af" /></code>
+	<code><img width="130" height="130" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/2f9a3ac8-b240-4788-85cb-6944aca76918" /></code>
 </div>
-
-
-
 
 
 ## 💻 Tech Stack
