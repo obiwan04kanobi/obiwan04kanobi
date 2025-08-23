@@ -8,8 +8,10 @@
 
 ## 🏅 Certifications
 <div align="center">
-	<code><img height="120" src="https://github.com/user-attachments/assets/e0765e6d-8c40-4f2e-8220-acc19e08aae6" alt="AWS-CLF02" title="AWS-CLF02" /></code>
+	<code><img width="144" height="144" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/b6ff6d0b-6f2b-4989-9833-f2aafa7f3ec2" /></code>
+	<code><img width="144" height="144" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/722e0070-374a-4c52-bde7-b647cfdfbc07" /></code>
 </div>
+
 
 
 
