@@ -74,9 +74,9 @@
   <img height=180 align="center" src="https://obiwan-github-readme-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&theme=jolly" />
 </a>
 
-<!--## 🧑‍💻 Hacktoberfest-->
+## ✨ Hacktoberfest
 
-<!--[![An image of @obiwan04kanobi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obiwan04kanobi)](https://holopin.io/@obiwan04kanobi)-->
+[![An image of @obiwan04kanobi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obiwan04kanobi)](https://holopin.io/@obiwan04kanobi)
 
 ## 🧑‍💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/obiwan04kanobi)
