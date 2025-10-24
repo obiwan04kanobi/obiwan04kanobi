@@ -8,8 +8,12 @@
 
 ## 🏅 Certifications
 <div align="center">
+	<a href="https://www.credly.com/earner/earned/badge/851d99eb-dc70-41dc-af85-66a709c06a90" target="_blank">
 	<code><img width="130" height="130" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/c995028f-55b0-43d3-ad42-ed8ee773f6af" /></code>
+	</a>
+	<a href="https://www.credly.com/earner/earned/badge/cefc4ad3-0c2e-45d9-80d8-0f2f2794f9ef" target="_blank">
 	<code><img width="130" height="130" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/2f9a3ac8-b240-4788-85cb-6944aca76918" /></code>
+	</a>
 </div>
 
 
