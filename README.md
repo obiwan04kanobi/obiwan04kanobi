@@ -14,6 +14,9 @@
 	<a href="https://www.credly.com/earner/earned/badge/cefc4ad3-0c2e-45d9-80d8-0f2f2794f9ef" target="_blank">
 	<code><img width="130" height="130" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/2f9a3ac8-b240-4788-85cb-6944aca76918" /></code>
 	</a>
+	<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5923392EDEF21C3AF38BA09813D331D0930F5220500EADCE3DE236A5E01B55C0" target="_blank">
+	<code><img width="260" height="260" alt="Oracle-Cloud-Infrastructure-2025-Certified-Foundations-Associate" src="https://github.com/user-attachments/assets/73ad0dc3-bf00-41b0-ae62-b1dc82ccd3f5" /></code>
+	</a>
 </div>
 
 
